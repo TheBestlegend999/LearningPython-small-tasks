@@ -1,2 +1,5 @@
-# learning-python
-Repository with Python exercises and projects documenting my progress in learning
+# Python Learning Journey 🐍
+
+This repository documents my journey of learning Python.  
+I started from the very basics and I will be adding new tasks, exercises, and projects as I progress.  
+The goal is to build strong foundations in Python and eventually move into Machine Learning and AI.
