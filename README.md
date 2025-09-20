@@ -20,6 +20,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [07_tuple_operations.py](tasks/07_tuple_operations.py) → tuple basics: type, length, slicing, and negative indexing
 - [08_dict_config.py](tasks/08_dict_config.py) → dictionary basics: length, key access, and iteration with items()
 - [09_set_operations.py](tasks/09_set_operations.py) → set basics: uniqueness, add() method, length, and iteration
+- [10_type_conversions.py](tasks/10_type_conversions.py) → type conversions between int, float, and str; different ways of using print()
+
 
 
 
