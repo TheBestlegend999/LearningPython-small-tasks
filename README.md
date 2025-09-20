@@ -17,6 +17,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [04_user_input_summary.py](tasks/04_user_input_summary.py) → collect user input (name, surname, city) and display a summary sentence
 - [05_if_statement_number_check.py](tasks/05_if_statement_number_check.py) → check if a number is positive, negative, or zero using if statements
 - [06_list_operations.py](tasks/06_list_operations.py) → list creation, deletion, membership check, and iteration with arithmetic operations
+- [07_tuple_operations.py](tasks/07_tuple_operations.py) → tuple basics: type, length, slicing, and negative indexing
+
 
 
 
