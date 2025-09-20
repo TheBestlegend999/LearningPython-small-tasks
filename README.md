@@ -22,6 +22,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [09_set_operations.py](tasks/09_set_operations.py) → set basics: uniqueness, add() method, length, and iteration
 - [10_type_conversions.py](tasks/10_type_conversions.py) → type conversions between int, float, and str; different ways of using print()
 - [11_collections_conversion.py](tasks/11_collections_conversion.py) → conversions between list, tuple, set, frozenset, and dict (with name-age pairs)
+- [12 mutable vs immutable.py](tasks/12_mutable_vs_immutable.py) → demonstrate id() and difference between immutable (int) vs mutable (list) objects
+
 
 
 
