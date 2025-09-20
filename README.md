@@ -18,6 +18,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [05_if_statement_number_check.py](tasks/05_if_statement_number_check.py) → check if a number is positive, negative, or zero using if statements
 - [06_list_operations.py](tasks/06_list_operations.py) → list creation, deletion, membership check, and iteration with arithmetic operations
 - [07_tuple_operations.py](tasks/07_tuple_operations.py) → tuple basics: type, length, slicing, and negative indexing
+- [08_dict_config.py](tasks/08_dict_config.py) → dictionary basics: length, key access, and iteration with items()
+
 
 
 
