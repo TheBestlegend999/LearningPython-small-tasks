@@ -28,6 +28,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [15_comparison_operators.py](tasks/15_comparison_operators.py) → use comparison operators (>, <, ==, !=, <=) and conditional statements to evaluate expressions and display logical results for numbers and strings
 - [16_rollercoaster_eligibility.py](tasks/16_rollercoaster_eligibility.py) → use comparison and logical operators (and) with if statements to check if a person meets the age and height requirements for a rollercoaster ride
 - [17_logical_operators.py](tasks/17_logical_operators.py) → use logical operators (and, or, not) to evaluate multiple conditions and display context-based messages depending on work, weather, holidays, and code quality
+- [18_membership_operators.py](tasks/18_membership_operators.py) → use membership operators (in, not in) with lists, tuples, and dictionaries to check element or key presence and display corresponding messages
+
 
 
 
