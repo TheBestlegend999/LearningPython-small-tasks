@@ -26,6 +26,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [13_investment_with_inflation.py](tasks/13_investment_with_inflation.py) → calculate return on investment after one year considering interest and inflation; display profit, inflation loss, and final capital value
 - [14_bank_account_operations.py](tasks/14_bank_account_operations.py) → use augmented assignment operators (+=, -=, *=, /=) to simulate and display step-by-step transactions on a bank account balance
 - [15_comparison_operators.py](tasks/15_comparison_operators.py) → use comparison operators (>, <, ==, !=, <=) and conditional statements to evaluate expressions and display logical results for numbers and strings
+- [16_rollercoaster_eligibility.py](tasks/16_rollercoaster_eligibility.py) → use comparison and logical operators (and) with if statements to check if a person meets the age and height requirements for a rollercoaster ride
+
 
 
 
