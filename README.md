@@ -24,6 +24,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [11_collections_conversion.py](tasks/11_collections_conversion.py) → conversions between list, tuple, set, frozenset, and dict (with name-age pairs)
 - [12 mutable vs immutable.py](tasks/12_mutable_vs_immutable.py) → demonstrate id() and difference between immutable (int) vs mutable (list) objects
 - [13_investment_with_inflation.py](tasks/13_investment_with_inflation.py) → calculate return on investment after one year considering interest and inflation; display profit, inflation loss, and final capital value
+- [14_bank_account_operations.py](tasks/14_bank_account_operations.py) → use augmented assignment operators (+=, -=, *=, /=) to simulate and display step-by-step transactions on a bank account balance
+
 
 
 
