@@ -23,8 +23,7 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [10_type_conversions.py](tasks/10_type_conversions.py) → type conversions between int, float, and str; different ways of using print()
 - [11_collections_conversion.py](tasks/11_collections_conversion.py) → conversions between list, tuple, set, frozenset, and dict (with name-age pairs)
 - [12 mutable vs immutable.py](tasks/12_mutable_vs_immutable.py) → demonstrate id() and difference between immutable (int) vs mutable (list) objects
-- [13 investment with inflation.py](tasks/13_investment_with_inflation.py) → calculate return on investment after one year considering interest and inflation; display profit, inflation loss, and final value
-- [14 bank_account_operations.py](tasks/14_bank_account_operations.py) → use augmented assignment operators (+=, -=, *=, /=) to simulate transactions on a bank account; update and display balance after each operation
+
 
   
 
