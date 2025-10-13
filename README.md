@@ -30,6 +30,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [17_logical_operators.py](tasks/17_logical_operators.py) → use logical operators (and, or, not) to evaluate multiple conditions and display context-based messages depending on work, weather, holidays, and code quality
 - [18_membership_operators.py](tasks/18_membership_operators.py) → use membership operators (in, not in) with lists, tuples, and dictionaries to check element or key presence and display corresponding messages
 - [19_identity_operators.py](tasks/19_identity_operators.py) → use identity operators (is, is not) to compare objects and demonstrate how variable references and assignments affect object identity in memory
+- [20_concatenation_operator.py](tasks/20_concatenation_operator.py) → use the concatenation operator (+) to join strings and lists, apply length checks with if statements, and verify substring presence in a greeting message
+
 
 
 
