@@ -34,6 +34,8 @@ Each file contains a small program or exercise that demonstrates a specific conc
 - [21_conditional_statements.py](tasks/21_conditional_statements.py) → use if, elif, and else statements with independent and nested conditions to analyze numeric values and display messages for multiple logical cases
 - [22_blood_donation_qualification.py](tasks/22_blood_donation_qualification.py) → use if, elif, and else statements with logical operators to check age and weight conditions for blood donation eligibility
 - [23_candidate_qualification_check.py](tasks/23_candidate_qualification_check.py) → use if, else, and logical operators (and, or, in) to verify a candidate’s experience, programming languages, and contract type for job eligibility
+- [24_dog_age_calculator.py](tasks/24_dog_age_calculator.py) → use if, elif, and else statements to convert a dog’s age into human years using conditional formulas and input validation
+
 
 
 
